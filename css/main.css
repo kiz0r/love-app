@@ -49,8 +49,9 @@
   padding-top: 50px;
 }
 .actionBtn {
-  background-color: #33f6ff;
-  border: solid black 1px;
+  background: rgba(72, 185, 245, 0);
+  border: solid #fff 1px;
+  color: #fff;
   font-weight: 700;
   font-size: 18px;
   padding: 12px 20px;
@@ -59,7 +60,7 @@
 
 .newPar {
   font-family: 'Roboto Mono', monospace;
-  color: #000;
+  color: #fff;
   font-size: 18px;
   line-height: 24px;
 }
